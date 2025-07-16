@@ -30,7 +30,7 @@ Actualmente en búsqueda activa de nuevas oportunidades donde aportar valor y se
 
 ### 🚀 Proyectos destacados
 
-- 🎮 [**TourneyHub**](https://github.com/nelcygarcia/Proyecto_Final_4Geeks_QuizBoss)  
+- 🎮 [**QuizBoss**](https://github.com/nelcygarcia/Proyecto_Final_4Geeks_QuizBoss)  
   Plataforma interactiva de trivias con diseño tipo videojuego.  
   Stack: React, Flask, MySQL, Bootstrap, Context API, JWT.
 
