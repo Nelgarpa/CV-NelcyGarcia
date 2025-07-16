@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="80%" />
+  <img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="90%"/>
 </p>
 
-
-
-
-<h1 align="center">💻 <strong>Nelcy García</strong></h1>
-<h3 align="center"><em>Full Stack Developer</em></h3>
-<p align="center"><strong>React · Python · Flask · Spring Boot · MySQL · Node.js</strong></p>
+<h1 align="center">💻 Nelcy García – Full Stack Developer</h1>
+<h3 align="center">React · Python · Flask · Spring Boot · MySQL · Node.js</h3>
 
 <p align="center">
-  <a href="https://bit.ly/NelcyFullStackCV"><strong>📎 Descargar CV en PDF</strong></a>
+  <a href="https://bit.ly/NelcyFullStackCV">📎 Descargar CV en PDF</a>
 </p>
 
 ---
@@ -29,6 +25,19 @@ Actualmente en búsqueda activa de nuevas oportunidades donde aportar valor y se
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+---
+
+### 🚀 Proyectos destacados
+
+- 🎮 [**QuizBoss**](https://github.com/nelcygarcia/Proyecto_Final_4Geeks_QuizBoss)  
+  Plataforma interactiva de trivias con diseño tipo videojuego.  
+  Stack: React, Flask, MySQL, Bootstrap, Context API, JWT.
+
+- 🕒 [**Pasapalos App (Ficharte)**](https://github.com/nelcygarcia/FicharteApp)  
+  App móvil para control de asistencia y estadísticas en restaurante.  
+  Frontend en Android Studio (Kotlin) y backend en Spring Boot + MySQL.  
+  🔗 [Ver backend](https://github.com/nelcygarcia/AsistenciaBack)
 
 ---
 
