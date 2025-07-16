@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Nelgarpa/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer"/>
+  <img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="80%"/>
 </p>
 
-<h1 align="center">📄 Currículum de Nelcy García</h1>
+<h1 align="center">💻 Nelcy García – Full Stack Developer</h1>
 <h3 align="center">Full Stack Developer | React · Python · Flask · Spring Boot · MySQL · Node.js</h3>
 
 <p align="center">
@@ -11,23 +11,26 @@
 
 ---
 
-🎓 Desarrolladora Full-Stack con formación en DAM y 4Geeks Academy. Me especializo en crear soluciones funcionales que integran frontend y backend, combinando diseño, lógica y escalabilidad. Actualmente estoy en búsqueda de nuevas oportunidades donde seguir aprendiendo y aportar valor.
+🎓 Desarrolladora Full-Stack orientada a soluciones web y móviles.  
+Apasionada por el código limpio, el diseño funcional y la mejora continua.  
+Actualmente en búsqueda activa de nuevas oportunidades donde aportar valor y seguir creciendo como profesional.
 
 ---
 
 ### 🛠️ Tecnologías principales
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
 
 ### 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nelcy-garcia)  
 📧 nelgarpa22@gmail.com  
-[GitHub](https://github.com/Nelgarpa)
+🔗 [LinkedIn](https://www.linkedin.com/in/nelcy-garcia)  
+🌐 [GitHub](https://github.com/nelcygarcia)  
+📎 [Descargar CV en PDF](https://bit.ly/NelcyFullStackCV)
