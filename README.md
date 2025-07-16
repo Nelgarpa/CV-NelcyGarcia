@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" style="width:100%; max-height:140px; object-fit:cover;" />
+  <img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" style="width:100%; max-height:80px; object-fit:cover;" />
 </p>
 
 
