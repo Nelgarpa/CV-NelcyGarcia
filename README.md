@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="90%"/>
-</p>
+<img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="90%"/>
 
 <h1 align="center">💻 Nelcy García – Full Stack Developer</h1>
 <h3 align="center">React · Python · Flask · Spring Boot · MySQL · Node.js</h3>
@@ -30,7 +28,7 @@ Actualmente en búsqueda activa de nuevas oportunidades donde aportar valor y se
 
 ### 🚀 Proyectos destacados
 
-- 🎮 [**QuizBoss**](https://github.com/nelcygarcia/Proyecto_Final_4Geeks_QuizBoss)  
+- 🎮 [**TourneyHub**](https://github.com/nelcygarcia/Proyecto_Final_4Geeks_QuizBoss)  
   Plataforma interactiva de trivias con diseño tipo videojuego.  
   Stack: React, Flask, MySQL, Bootstrap, Context API, JWT.
 
