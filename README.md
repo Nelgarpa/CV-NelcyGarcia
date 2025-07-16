@@ -1,4 +1,8 @@
-<img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="100%"/>
+<p align="center">
+  <img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" style="width:100%; max-height:140px; object-fit:cover;" />
+</p>
+
+
 
 <h1 align="center">💻 <strong>Nelcy García</strong></h1>
 <h3 align="center"><em>Full Stack Developer</em></h3>
