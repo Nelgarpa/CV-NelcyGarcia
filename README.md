@@ -49,4 +49,5 @@ Actualmente en búsqueda activa de nuevas oportunidades donde aportar valor y se
 📧 nelgarpa22@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nelcy-garcia)  
 🌐 [GitHub](https://github.com/nelcygarcia)  
-📎 [Descargar CV en PDF](https://bit.ly/NelcyFullStackCV)
+📎   <a href="https://github.com/nelcygarcia/CV-NelcyGarcia/raw/main/NelcyGarciaResume%20(2).pdf">📎 Descargar CV en PDF</a>
+
