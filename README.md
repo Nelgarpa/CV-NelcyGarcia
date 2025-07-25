@@ -6,7 +6,7 @@
 <h3 align="center">React · Python · Flask · Spring Boot · MySQL · Node.js</h3>
 
 <p align="center">
-  <a href="https://bit.ly/NelcyFullStackCV">📎 Descargar CV en PDF</a>
+  [📎 Descargar CV en PDF](https://github.com/tu-usuario/CV-NelcyGarcia/blob/main/NelcyGarciaResume(2).pdf)
 </p>
 
 ---
