@@ -1,21 +1,24 @@
 <p align="center">
-<img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="50%"/>
+  <img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García" width="100%" />
 </p>
 
-<h1 align="center">💻 Nelcy García – Full Stack Developer</h1>
-<h3 align="center">React · Python · Flask · Spring Boot · MySQL · Node.js</h3>
+<h2 align="center">💻 Nelcy García – Full Stack Developer</h2>
 
 <p align="center">
-[📎 Descargar CV en PDF](https://github.com/nelcygarcia/CV-NelcyGarcia/raw/main/NelcyGarciaResume%20(2).pdf)]
+  React · Python · Flask · Spring Boot · MySQL · Node.js
+</p>
+
+<p align="center">
+  <a href="https://github.com/nelcygarcia/CV-NelcyGarcia/raw/main/NelcyGarciaResume%20(2).pdf">📎 Descargar CV en PDF</a>
 </p>
 
 ---
 
-🎓 Desarrolladora Full-Stack orientada a soluciones web y móviles.  
-Apasionada por el código limpio, el diseño funcional y la mejora continua.  
+<p align="center">
+🎓 Desarrolladora Full-Stack orientada a soluciones web y móviles. <br>
+Apasionada por el código limpio, el diseño funcional y la mejora continua. <br>
 Actualmente en búsqueda activa de nuevas oportunidades donde aportar valor y seguir creciendo como profesional.
-
----
+</p>
 
 ### 🛠️ Tecnologías principales
 
